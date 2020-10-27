@@ -1,0 +1,145 @@
+<RCC>
+  <qresource prefix="DialogBoxImg">
+    <file>Res/dialogcover.png</file>
+    <file>Res/alertmessage.png</file>
+    <file>Res/infomessage.png</file>
+  </qresource>
+  <qresource prefix="DatabaseImg">
+    <file>Res/database.png</file>
+  </qresource>
+  <qresource prefix="InternetImg">
+    <file>Res/internet.png</file>
+  </qresource>
+  <qresource prefix="AddToCart">
+    <file>Res/addtocart.png</file>
+    <file>Res/addtocarthover.png</file>
+  </qresource>
+  <qresource prefix="MinImg">
+    <file>Res/min.png</file>
+  </qresource>
+  <qresource prefix="MaxImg">
+    <file>Res/max.png</file>
+  </qresource>
+  <qresource prefix="CurrentStockImg">
+    <file>Res/currentstock.png</file>
+  </qresource>
+  <qresource prefix="EmailImg">
+    <file>Res/envelope.png</file>
+  </qresource>
+  <qresource prefix="UserImg">
+    <file>Res/user.png</file>
+  </qresource>
+  <qresource prefix="AddImg">
+    <file>Res/add hover.png</file>
+    <file>Res/add.png</file>
+  </qresource>
+  <qresource prefix="HomeButtonImg">
+    <file>Res/homebackmessages.png</file>
+    <file>Res/homebackreports.png</file>
+    <file>Res/homebacksettings.png</file>
+    <file>Res/homebackcustomers.png</file>
+    <file>Res/homebackinventory.png</file>
+    <file>Res/homebackpurchases.png</file>
+    <file>Res/homebacksales.png</file>
+    <file>Res/homebackvendors.png</file>
+    <file>Res/homecustomers.png</file>
+    <file>Res/homeinventory.png</file>
+    <file>Res/homepurchases.png</file>
+    <file>Res/homenotifications.png</file>
+    <file>Res/homereports.png</file>
+    <file>Res/homesales.png</file>
+    <file>Res/homesettings.png</file>
+    <file>Res/homevendors.png</file>
+  </qresource>
+  <qresource prefix="PrintImg">
+    <file>Res/print.png</file>
+  </qresource>
+  <qresource prefix="XLSImg">
+    <file>Res/xls.png</file>
+  </qresource>
+  <qresource prefix="PDFImg">
+    <file>Res/pdf.png</file>
+  </qresource>
+  <qresource prefix="ArrowLeftImg">
+    <file>Res/arrowleft.png</file>
+  </qresource>
+  <qresource prefix="UserLoginImg">
+    <file>Res/loguser.png</file>
+  </qresource>
+  <qresource prefix="HomeImg">
+    <file>Res/home.png</file>
+  </qresource>
+  <qresource prefix="MenuImg">
+    <file>Res/menunothover.png</file>
+    <file>Res/menuhover.png</file>
+  </qresource>
+  <qresource prefix="ReportsImg">
+    <file>Res/report.png</file>
+  </qresource>
+  <qresource prefix="MinusSymbolImg">
+    <file>Res/minussign hover.png</file>
+    <file>Res/minussign.png</file>
+  </qresource>
+  <qresource prefix="AddSymbolImg">
+    <file>Res/addsign hover.png</file>
+    <file>Res/addsign.png</file>
+  </qresource>
+  <qresource prefix="LoupeImg">
+    <file>Res/loupe hover.png</file>
+    <file>Res/loupe.png</file>
+  </qresource>
+  <qresource prefix="AdjustStockImg">
+    <file>Res/adjuststock.png</file>
+  </qresource>
+  <qresource prefix="ShoppingBagImg">
+    <file>Res/shoppingbag.png</file>
+  </qresource>
+  <qresource prefix="ProfileImg">
+    <file>Res/profile.png</file>
+  </qresource>
+  <qresource prefix="VendorPicImg">
+    <file>Res/addpicture.png</file>
+  </qresource>
+  <qresource prefix="ArrowDownImg">
+    <file>Res/arrowdown.png</file>
+  </qresource>
+  <qresource prefix="NotificationImg">
+    <file>Res/notification.png</file>
+  </qresource>
+  <qresource prefix="DashboardImg">
+    <file>Res/dash.png</file>
+  </qresource>
+  <qresource prefix="SettingImg">
+    <file>Res/setting.png</file>
+  </qresource>
+  <qresource prefix="ListImg">
+    <file>Res/list.png</file>
+  </qresource>
+  <qresource prefix="VendorImg">
+    <file>Res/vendor.png</file>
+  </qresource>
+  <qresource prefix="PurchaseImg">
+    <file>Res/purchase.png</file>
+  </qresource>
+  <qresource prefix="SaleImg">
+    <file>Res/sale.png</file>
+  </qresource>
+  <qresource prefix="CustomerImg">
+    <file>Res/customer.png</file>
+  </qresource>
+  <qresource prefix="InventoryImg">
+    <file>Res/inventory.png</file>
+  </qresource>
+  <qresource prefix="MinimizeImg">
+    <file>Res/minimize.png</file>
+  </qresource>
+  <qresource prefix="SoftLogo">
+    <file>Res/DSoft Logo.png</file>
+  </qresource>
+  <qresource prefix="CloseImg">
+    <file>Res/close.png</file>
+  </qresource>
+  <qresource prefix="LockImg">
+    <file>Res/padlock.png</file>
+  </qresource>
+</RCC>
