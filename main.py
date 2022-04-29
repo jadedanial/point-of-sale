@@ -5574,7 +5574,7 @@ class MainGUI(QtWidgets.QWidget):
 		ScreenRes = Desktop.screenGeometry()
 		w = ScreenRes.width()
 		h = ScreenRes.height()
-		self.setGeometry(QtCore.QRect((w/2)-(x/2), (h/2)-(y/2), x, y))
+		self.setGeometry(QtCore.QRect(int((w/2)-(x/2)), int((h/2)-(y/2)), int(x), int(y)))
 
 	#Minimize and maximize window.
 	def MinMax(self):
@@ -6226,8 +6226,8 @@ class MainGUI(QtWidgets.QWidget):
 			self.SettingsMinusLocationPushButton.setGeometry(QtCore.QRect(40, 5, 20, 20))
 			self.SettingsAddLocationPushButton.setGeometry(QtCore.QRect(10, 5, 20, 20))
 			self.SettingsLocationTableWidget.setGeometry(QtCore.QRect(0, 0, 557, 369))
-			self.ProductFrame.setGeometry(QtCore.QRect(358.5, 136.5, 573, 520))
-			self.SelectItemsFrame.setGeometry(QtCore.QRect(480, 251.5, 330, 300))
+			self.ProductFrame.setGeometry(QtCore.QRect(int(358.5), int(136.5), 573, 520))
+			self.SelectItemsFrame.setGeometry(QtCore.QRect(480, int(251.5), 330, 300))
 			self.AddSaleProductAddToCart.setGeometry(QtCore.QRect(1025, 25, 91, 100))
 
 			self.SalesOrderDashboardLabel.setGeometry(QtCore.QRect(28, 288, 120, 20))
@@ -6961,7 +6961,7 @@ class MainGUI(QtWidgets.QWidget):
 			self.HomeUserNameLabel.setGeometry(QtCore.QRect(100, 12, 301, 21))
 			self.HomeHeaderLogoLabel.setGeometry(QtCore.QRect(68, 30, 251, 91))
 			self.HomeHeaderTextLabel.setGeometry(QtCore.QRect(310, 63, 61, 31))
-			self.ProductFrame.setGeometry(QtCore.QRect(203.5, 45, 573, 520))
+			self.ProductFrame.setGeometry(QtCore.QRect(int(203.5), 45, 573, 520))
 			self.SelectItemsFrame.setGeometry(QtCore.QRect(325, 160, 330, 300))
 			self.AddSaleProductAddToCart.setGeometry(QtCore.QRect(760, 3, 91, 100))
 
@@ -17303,7 +17303,7 @@ class MainGUI(QtWidgets.QWidget):
 
 		#Product widgets.
 		self.ProductFrame = QtWidgets.QFrame(self)
-		self.ProductFrame.setGeometry(QtCore.QRect(203.5, 45, 573, 520))
+		self.ProductFrame.setGeometry(QtCore.QRect(int(203.5), 45, 573, 520))
 		self.ProductFrame.setFrameShape(QtWidgets.QFrame.StyledPanel)
 		self.ProductFrame.setFrameShadow(QtWidgets.QFrame.Raised)
 		self.ProductFrame.setStyleSheet("QFrame#ProductFrame{background-color: rgb(255,255,255);border: none;}")
