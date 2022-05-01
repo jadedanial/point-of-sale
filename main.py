@@ -4,7 +4,7 @@
 #He is fueled by his passion for learning. He is fascinated by the idea of discovering the world of programming.
 #Meanwhile, he is developing desktop and web applications using his skills in programming.
 
-#Porftfolio: http://www.codehubbyjadedanial.com
+#Porftfolio: http://www.jadedanial.com
 #Email: danialjade@gmail.com
 
 #This project was created on November 8, 2017 at 5:15 PM and finished October 14, 2020 at 8:07 PM.
