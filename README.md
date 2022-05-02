@@ -13,6 +13,7 @@ This project was built using Python and PyQt5 and uses the following technologie
 - psycopg2==2.9.3 - PostgreSQL adapter for Python.
 - pandas==1.4.2 - For generating reports.
 - pdfkit==1.0.0 - Converting reports to PDF.
+- PostgreSQL - For the database.
 
 
 
