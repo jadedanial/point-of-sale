@@ -38,9 +38,9 @@ You do not have to pay employees to physically count items. You will know how mu
 
 # Screenshots
 
-![This is an image](http://jadedanialwebsite.herokuapp.com/static/blog/media/ui/danialsoftposui2.png)
+![This is an image](http://jadedanialportfolio.herokuapp.com/static/blog/media/ui/danialsoftposui2.png)
 
-![This is an image](http://jadedanialwebsite.herokuapp.com/static/blog/media/ui/danialsoftposui1.png)
+![This is an image](http://jadedanialportfolio.herokuapp.com/static/blog/media/ui/danialsoftposui1.png)
 
 
 
@@ -70,7 +70,7 @@ Project is complete.
 
 # Room for Improvement
 
-Simplify some of the functions to minmize repeating of codes.
+Simplify some of the functions to minimize repeating of codes.
 
 
 
