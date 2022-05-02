@@ -7,7 +7,7 @@ DanialSoft POS help small to mid-size businesses easily and efficiently manage t
 
 # Technology Used
 
-This project was built using Python 3.10.4 and Django 4.0.3 and uses the following technologies:
+This project was built using Python and PyQt5 and uses the following technologies:
 
 - PyQt5==5.15.6 - For building the GUI.
 - psycopg2==2.9.3 - PostgreSQL adapter for Python.
