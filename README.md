@@ -49,8 +49,7 @@ You do not have to pay employees to physically count items. You will know how mu
 
 Follow the steps below to get started with this project's development environment.
 
-1. Install frameworks and libraries using pip3.
-   - pip3 install django==4.0.3
+1. Install frameworks and libraries using pip3
    - pip3 install pandas==1.4.2
    - pip3 install pdfkit==1.0.0
    - pip3 install psycopg2==2.9.3
@@ -59,7 +58,9 @@ Follow the steps below to get started with this project's development environmen
    - pip3 install pyqtgraph==0.12.4
    - pip3 install PyQtWebEngine==5.15.5
 
-2. Clone the repository and you're ready to develop!
+2. Install PostgreSQL database.
+
+3. Clone the repository and you're ready to develop!
 
 
 
