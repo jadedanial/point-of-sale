@@ -1,7 +1,7 @@
 # General Information
 An inventory system for small to mid-size businesses to handle sales, purchasing, and inventory management and control. It can help track available stocks, add and purchase from vendors, add and take customers' orders, reorder stocks, add products, and generate reports.
 
-DanialSoft POS help small to mid-size businesses easily and efficiently manage the ordering, stocking, storing, and using of inventory. By effectively managing inventory, you’ll always know what items are in stock, how many of them there are, and where they are located.
+It helps small to mid-size businesses easily and efficiently manage the ordering, stocking, storing, and using of inventory. By effectively managing inventory, you’ll always know what items are in stock, how many of them there are, and where they are located.
 
 
 
@@ -21,7 +21,7 @@ This project was built using Python and PyQt5 and uses the following technologie
 
 ## Tracking
 
-The primary role of DanialSoft POS is to track your products and supplies. It keeps records of when you purchased inventory, when you sold it and how much you have on hand. It also tells you the location of your inventory.
+The primary role of this software is to track your products and supplies. It keeps records of when you purchased inventory, when you sold it and how much you have on hand. It also tells you the location of your inventory.
 
 ## Preventing Out-of-stock
 
@@ -29,7 +29,7 @@ It can alert you when you are running low on an item. This allows you to order i
 
 ## Price Control
 
-DanialSoft POS can tell you the various prices you pay for inventory throughout the year. Even if you bought the same item several times at different prices, it can track those prices so you know your average price. This can help you set selling prices and calculate your profit margin.
+It can tell you the various prices you pay for inventory throughout the year. Even if you bought the same item several times at different prices, it can track those prices so you know your average price. This can help you set selling prices and calculate your profit margin.
 
 ## Counting
 
