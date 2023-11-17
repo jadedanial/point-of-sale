@@ -1,9 +1,8 @@
 # General Information
+
 An inventory system for small to mid-size businesses to handle sales, purchasing, and inventory management and control. It can help track available stocks, add and purchase from vendors, add and take customers' orders, reorder stocks, add products, and generate reports.
 
 It helps small to mid-size businesses easily and efficiently manage the ordering, stocking, storing, and using of inventory. By effectively managing inventory, you’ll always know what items are in stock, how many of them there are, and where they are located.
-
-
 
 # Technology Used
 
@@ -14,8 +13,6 @@ This project was built using Python and PyQt5 and uses the following technologie
 - pandas==1.4.2 - For generating reports.
 - pdfkit==1.0.0 - Converting reports to PDF.
 - PostgreSQL - For the database.
-
-
 
 # Features
 
@@ -35,21 +32,18 @@ It can tell you the various prices you pay for inventory throughout the year. Ev
 
 You do not have to pay employees to physically count items. You will know how much you have at all times based on the data in your system. This can save a great deal of money on payroll for inventory personnel.
 
-
-
 # Screenshots
 
 ![This is an image](https://github.com/jadedanial/danialsoftpos/blob/main/ui1.png)
 
 ![This is an image](https://github.com/jadedanial/danialsoftpos/blob/main/ui2.png)
 
-
-
 # Setup
 
 Follow the steps below to get started with this project's development environment.
 
 1. Install frameworks and libraries using pip3
+
    - pip3 install pandas==1.4.2
    - pip3 install pdfkit==1.0.0
    - pip3 install psycopg2==2.9.3
@@ -62,20 +56,14 @@ Follow the steps below to get started with this project's development environmen
 
 3. Clone the repository and you're ready to develop!
 
-
-
 # Project Status
 
 Project is complete.
-
-
 
 # Room for Improvement
 
 Simplify some of the functions to minimize repeating of codes.
 
-
-
 # Contact
 
-Created by [@jadedanial](http://jadedanial.com/) - feel free to contact me!
+Created by [@jadedanial](https://jadedanial.github.io/projects/) - feel free to contact me!
